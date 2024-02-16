@@ -11,6 +11,7 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
   <link rel="stylesheet" type="text/css" href="default.css" />
 </head>
+<!-- User Login page, they can create an account or can login as a guest -->
 
 <body>
   <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
