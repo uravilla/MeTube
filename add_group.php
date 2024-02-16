@@ -4,6 +4,7 @@ session_start();
 include_once "functions.php";
 
 ?>
+<!-- Add Groups in the MeTube application so that they can you interact with common users and share your thoughts on particular topic -->
 
 <head>
   <title>Add Group</title>
