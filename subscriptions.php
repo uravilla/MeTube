@@ -17,6 +17,7 @@ include_once "functions.php";
   <link rel="stylesheet" type="text/css" href="default.css" />
 
 </head>
+<!-- User can subscribe to a particular playlist based on there preferences -->
 
 <body>
 
