@@ -16,6 +16,7 @@ include_once "functions.php";
 	<link rel="stylesheet" type="text/css" href="default.css" />
 
 </head>
+<!-- User can create there own playlist and can add there favourite videos,songs based on there preferences -->
 
 <?php
 $username = $_SESSION['username'];
