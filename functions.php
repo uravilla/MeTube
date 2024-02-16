@@ -1,3 +1,5 @@
+<!-- Contains commonly used functions like addcontact, addgroup throughout the application to maintain readability.-->
+
 <?php
 include_once ("mysqlclass.php");
 $con = mysqli_connect($dbhost, $dbuser, $dbpass, $database) ;
