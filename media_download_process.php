@@ -1,3 +1,5 @@
+<!-- Called when the user needs to download a particular video, audio etc -->
+
 <?php
 session_start();
 include_once "functions.php";
