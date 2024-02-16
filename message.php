@@ -4,6 +4,7 @@ session_start();
 include_once "functions.php";
 ?>
 <html>
+<!-- User can chat with other users and share there views -->
 
 <head>
 	<title>Message</title>
