@@ -4,6 +4,7 @@ session_start();
 include_once "functions.php";
 ?>
 <html>
+<!-- Display all the playlist, songs and videos. Also contains search so that user can search the desired items-->
 
 <head>
     <meta charset="utf-8" />
