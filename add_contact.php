@@ -4,7 +4,7 @@ session_start();
 include_once "functions.php";
 
 ?>
-# add contacts in the MeTube application so that they can share the images, songs and videos. User can't add the conatct if they are blocked.
+<! -- Add contacts in the MeTube application so that they can share the images, songs and videos. User can't add the conatct if they are blocked. -->
 <head>
   <title>Add Contact</title>
   <meta charset="utf-8">
