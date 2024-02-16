@@ -4,7 +4,7 @@ session_start();
 include_once "functions.php";
 ?>
 <html>
-
+<!-- Used to filter so that user can search based on there preferences -->
 <head>
     <title>Media browse</title>
     <meta charset="utf-8">
